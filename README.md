@@ -1,2 +1,0 @@
-# Write-a-java-program
-Write a Java program to create a class Student containing static and instance variables like – collegeName, Roll, Name, mobile etc. Also write one default and parameterized constructor to initialize these values. Create one display method to display student data and one get method to take value from user. Also create one static method displayCollege which only display the name of college.
